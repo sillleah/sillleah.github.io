@@ -68,7 +68,7 @@
 - **MN** (Menus)
   - MNU3: Main Menu and Title Screen
   - MNU4: Pause Menu
-- **O0** folder (Attic & Knight)
+- **O0** (Attic & Knight)
   - O001: Cower In The Tower! Part 1
   - O002: Panic In The Attic! Part 2
   - O003: Panic In The Attic! Part 3
@@ -76,27 +76,27 @@
   - O005: A Dark And Stormy Knight! Part 1
   - O006: A Dark And Stormy Knight! Part 2
   - O008: A Dark And Stormy Knight! Part 3
-- **P0** folder (Creepy & Gusts)
+- **P0** (Creepy & Gusts)
   - P001: Creepy Crawlies In The Hallways! Part 1
   - P002: Creepy Crawlies In The Hallways! Part 2
   - P003: Creepy Crawlies In The Hallways! Part 3
   - P004: Gusts Abound Underground! Part 1
   - P005: Gusts Abound Underground! Part 2
-- **R0** folder (Upstairs & Down)
+- **R0** (Upstairs & Down)
   - R001: All Scares Upstairs! Part 1
   - R003: All Scares Upstairs! Part 4
   - R004: Don't Look Down, Scooby-Doo! Part 1
   - R005: Don't Look Down, Scooby-Doo! Part 2
   - R020: All Scares Upstairs! Part 2
   - R021: All Scares Upstairs! Part 3
-- **S0** folder (Lab & Mind)
+- **S0** (Lab & Mind)
   - S001: Little Lab of Horrors! Part 1
   - S002: Little Lab of Horrors! Part 2
   - S003: Little Lab of Horrors! Part 3
   - S004: Mastermind Unmasked! Part 1
   - S005: Mastermind Unmasked! Part 2
   - S006: Used for the game's ending cutscene and credits roll
-- **W0** folder (Wreck, Aghast & Shiver)
+- **W0** (Wreck, Aghast & Shiver)
   - W020: Wreck on the Deck! Part 1
   - W021: Wreck on the Deck! Part 2
   - W022: Wreck on the Deck! Part 3
