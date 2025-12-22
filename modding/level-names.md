@@ -1,0 +1,107 @@
+[Back to Modding Tutorials](https://sillleah.github.io/modding.html)
+
+## Level Filenames
+
+- **B0** (Cellar)
+  - B001: Who's Yella In The Cellar? Part 1
+  - B002: Who's Yella In The Cellar? Part 2
+  - B003: Who's Yella In The Cellar? Part 3
+  - B004: Who's Yella In The Cellar? Part 4
+- **C0** (Skull & Cavein)
+  - C001: Scared Stiff at Skull Cliff! Part 1
+  - C002: Scared Stiff at Skull Cliff! Part 2
+  - C003: Scared Stiff at Skull Cliff! Part 3
+  - C004: Scared Stiff at Skull Cliff! Part 4
+  - C005: Misbehavin? Cause A Cave In! Part 1
+  - C006: Misbehavin? Cause A Cave In! Part 2
+  - C007: Misbehavin? Cause A Cave In! Part 3
+- **E0** (Hedge, Greenhouse & Hill)
+  - E001: On Edge In The Hedge! Part 1
+  - E002: On Edge In The Hedge! Part 2
+  - E003: On Edge In The Hedge! Part 3
+  - E004: On Edge In The Hedge! Part 4
+  - E005: It's A Mean Greenhouse, Scooby! Part 1
+  - E006: It's A Mean Greenhouse, Scooby! Part 2
+  - E007: Chills & Spills on Haunted Hill! Part 1
+  - E008: Chills & Spills on Haunted Hill! Part 2
+  - E009: Chills & Spills on Haunted Hill! Part 3
+- **F0** (Shock, Fishy & Pier)
+  - F001: Shock on the Dock! Part 1
+  - F003: Shock on the Dock! Part 2
+  - F004: Fishy Clues for Scooby-Doo! Part 1
+  - F005: Fishy Clues for Scooby-Doo! Part 2
+  - F006: Fishy Clues for Scooby-Doo! Part 3
+  - F007: Fishy Clues for Scooby-Doo! Part 4
+  - F008: Fear on the Pier! Part 1
+  - F009: Fear on the Pier! Part 2
+  - F010: Fear on the Pier! Part 3
+- **G0** (Grave, Crypt & Tomb)
+  - G001: A Tight Spot for a Grave Plot! Part 1
+  - G002: A Tight Spot for a Grave Plot! Part 2
+  - G003: A One Way Trip To The Crypt! Part 1
+  - G004: A One Way Trip To The Crypt! Part 2
+  - G005: A One Way Trip To The Crypt! Part 3
+  - G006: A One Way Trip To The Crypt! Part 4
+  - G007: Gloom & Doom Down In The Tomb! Part 1
+  - G008: Gloom & Doom Down In The Tomb! Part 2
+  - G009: Gloom & Doom Down In The Tomb! Part 3
+- **H0** (Mystery & Monster Gallery)
+  - H001: The Mystery Machine Part 1
+  - H002: The Mystery Machine Part 2 / Mystic Playground
+  - H003: Monster Gallery
+- **I0** (Clamor & Mind)
+  - I001: Clamor In The Manor! Part 1
+  - I003: Clamor In The Manor! Part 4
+  - I004: Mind Your Manors! Part 1
+  - I005: Mind Your Manors! Part 2
+  - I006: Mind Your Manors! Part 3
+  - I020: Clamor In The Manor! Part 2
+  - I021: Clamor In The Manor! Part 3
+- **L0** (Coast, Witch Way & Lighthouse)
+  - L011: Coast for Some Ghosts! Part 1
+  - L013: Coast for Some Ghosts! Part 2
+  - L014: Coast for Some Ghosts! Part 3
+  - L015: Going Down Witch Way?
+  - L017: Lighthouse Fright House! Part 1
+  - L018: Lighthouse Fright House! Part 2
+  - L019: Lighthouse Fright House! Part 3
+- **MN** (Menus)
+  - MNU3: Main Menu and Title Screen
+  - MNU4: Pause Menu
+- **O0** folder (Attic & Knight)
+  - O001: Cower In The Tower! Part 1
+  - O002: Panic In The Attic! Part 2
+  - O003: Panic In The Attic! Part 3
+  - O004: Panic In The Attic! Part 4
+  - O005: A Dark And Stormy Knight! Part 1
+  - O006: A Dark And Stormy Knight! Part 2
+  - O008: A Dark And Stormy Knight! Part 3
+- **P0** folder (Creepy & Gusts)
+  - P001: Creepy Crawlies In The Hallways! Part 1
+  - P002: Creepy Crawlies In The Hallways! Part 2
+  - P003: Creepy Crawlies In The Hallways! Part 3
+  - P004: Gusts Abound Underground! Part 1
+  - P005: Gusts Abound Underground! Part 2
+- **R0** folder (Upstairs & Down)
+  - R001: All Scares Upstairs! Part 1
+  - R003: All Scares Upstairs! Part 4
+  - R004: Don't Look Down, Scooby-Doo! Part 1
+  - R005: Don't Look Down, Scooby-Doo! Part 2
+  - R020: All Scares Upstairs! Part 2
+  - R021: All Scares Upstairs! Part 3
+- **S0** folder (Lab & Mind)
+  - S001: Little Lab of Horrors! Part 1
+  - S002: Little Lab of Horrors! Part 2
+  - S003: Little Lab of Horrors! Part 3
+  - S004: Mastermind Unmasked! Part 1
+  - S005: Mastermind Unmasked! Part 2
+  - S006: Used for the game's ending cutscene and credits roll
+- **W0** folder (Wreck, Aghast & Shiver)
+  - W020: Wreck on the Deck! Part 1
+  - W021: Wreck on the Deck! Part 2
+  - W022: Wreck on the Deck! Part 3
+  - W023: Aghast by the Mast! Part 1
+  - W025: Aghast by the Mast! Part 2
+  - W026: Aghast by the Mast! Part 3
+  - W027: Shiver Your Timbers, Scooby! Part 1
+  - W028: Shiver Your Timbers, Scooby! Part 2
