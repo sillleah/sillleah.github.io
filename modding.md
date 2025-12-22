@@ -13,8 +13,8 @@ These guides are intended for the Gamecube version of the game. I am not experie
 - [Extracting the Game](https://sillleah.github.io/modding/extracting-the-game.html) - The basics on extracting the game files to begin modding.
 - [The Filesystem](https://sillleah.github.io/modding/filesystem.html) - Information on the game's filesystem.
 - [Basics of Industrial Park](https://sillleah.github.io/modding/industrial-park.html) - The basics of installing Industrial Park and viewing a level.
-- Using the Editor - TODO
-- Testing the Game - TODO
+- [Using the Editor](https://sillleah.github.io/modding/editor.html) - More information on viewing and finding objects in Industrial Park.
+- [Testing the Game](https://sillleah.github.io/modding/testing.html) - How to launch and test a modded game.
 
 ## Level Editing Basics
 
