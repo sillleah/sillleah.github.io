@@ -37,3 +37,4 @@ These guides are intended for the Gamecube version of the game. I am not experie
 ## Useful Resources
 
 - [Level Filenames Guide](https://sillleah.github.io/modding/level-names.html)
+- [Layers and Asset Types Guide](https://sillleah.github.io/modding/layers-assets.html)
