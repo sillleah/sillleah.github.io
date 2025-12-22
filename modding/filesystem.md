@@ -20,7 +20,7 @@ You'd be very unlikely to touch this folder during modding.
 
 All other folders in the 'files' folder other than 'fmv' are folders containing the game's .HIP level files.  
 The level files are roughly grouped into these different folders - for instance, the 'B0' folder contains the four 'Who's Yella in the Cellar?' levels.  
-It can be difficult to identify a level based purely on its .HIP filename, since the filenames are generic - for instance, 'Coast for Some Ghosts' Part 2 is internally named L014.HIP. As such, I've created a guide to internal level filenames available [here](https://sillleah.github.io/modding/level-names.html) for your use.
+It can be difficult to identify a level based purely on its .HIP filename, since the filenames are generic - for instance, 'Coast for Some Ghosts' Part 3 is internally named L014.HIP. As such, I've created a guide to internal level filenames available [here](https://sillleah.github.io/modding/level-names.html) for your use.
 
 You'll get to know these well during modding - since naturally, a large part of modding is level editing. For those who aren't aware, almost all of Night of 100 Fright's scripts and events are within the levels themselves and not the game's code - so level editing gives a huge amount of control over the game compared to modding other games.
 
