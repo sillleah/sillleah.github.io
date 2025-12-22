@@ -22,9 +22,13 @@ These guides are intended for the Gamecube version of the game. I am not experie
 - Porting Objects into Levels - TODO
 - Configuring Objects - TODO
 
-## Specifics
+## Level Editing Specifics
 
 - Creating A Clue - TODO
 - Working with Enemies - TODO
 - Creating A Loading Zone - TODO
 - Custom Level Music - TODO
+
+## Other Modding
+
+- The INI File - TODO
