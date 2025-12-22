@@ -32,3 +32,7 @@ These guides are intended for the Gamecube version of the game. I am not experie
 ## Other Modding
 
 - The INI File - TODO
+
+## Useful Resources
+
+- [Level Filenames Guide](https://sillleah.github.io/modding/level-names.html)
