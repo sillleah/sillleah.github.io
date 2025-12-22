@@ -16,4 +16,4 @@ Dolphin Emulator is the easiest way to extract the game files from the ISO. You 
 
 Open up Dolphin Emulator. If this is your first time opening the emulator, you won't have a games directory set and Dolphin will prompt you to set one, as shown below.
 
-![The main Dolphin interface](/sillleah.github.io/assets/dolphin-games.png)
+![The main Dolphin interface](/assets/dolphin-games.png)
