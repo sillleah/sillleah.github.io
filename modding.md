@@ -14,6 +14,7 @@ These guides are intended for the Gamecube version of the game. I am not experie
 - [The Filesystem](https://sillleah.github.io/modding/filesystem.html) - Information on the game's filesystem.
 - Basics of Industrial Park - TODO
 - Using the Editor - TODO
+- Testing the Game - TODO
 
 ## Level Editing Basics
 
