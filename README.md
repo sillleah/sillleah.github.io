@@ -4,4 +4,4 @@ Please feel free to take a look around! I have a lot of things lying around, mai
 
 ## Night of 100 Frights
 
-- [Modding Tutorials](sillleah.github.io/modding.html)
+- [Modding Tutorials](https://sillleah.github.io/modding.html)
