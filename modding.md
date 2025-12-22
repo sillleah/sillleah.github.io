@@ -1,3 +1,5 @@
+[Back](https://sillleah.github.io)
+
 Here is my collection of modding tutorials for Scooby-Doo: Night of 100 Frights.
 These are currently a work-in-progress with mostly only text guides, but the ultimate end goal is to have both text and video versions available of every guide.
 Please feel free to reach out to me on Discord if you have questions or issues.
