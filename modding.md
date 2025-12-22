@@ -32,7 +32,7 @@ These guides are intended for the Gamecube version of the game. I am not experie
 
 ## Other Modding
 
-- The INI File - TODO
+- [The INI File](https://sillleah.github.io/modding/ini-file.html)
 
 ## Useful Resources
 
