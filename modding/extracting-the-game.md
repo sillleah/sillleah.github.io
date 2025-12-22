@@ -28,3 +28,21 @@ Now you should see Scooby-Doo: Night of 100 Frights as a playable game on Dolphi
 
 ## Extracting Game Files
 
+Now we need to extract the game files from the Night of 100 Frights ISO.
+
+Right-click on Scooby-Doo: Night of 100 Frights in Dolphin's game list and select Properties.
+
+Under the Filesystem tab, right-click on the disc itself and select "Extract Entire Disc", as shown.
+
+![Extracting entire disc](/assets/extract-disc.png)
+
+You'll be prompted to choose a directory to place the extracted files in.  
+I recommend creating a fresh new folder to use as a modding workspace, and then creating a subfolder inside for the extracted files.
+
+For the purposes of these tutorials, I'll be creating a workspace folder called "Tutorial", and inside, another folder called "Extracted Files", which is the folder I'll select here.
+
+If you check the folder you selected, you should see two subfolders inside - 'files' and 'sys'.
+
+And you're done - at least for now! We've extracted the game files.
+
+Next I recommend moving on to the Filesystem tutorial, which will explain the game's file structure so you can understand which files we'll be editing.
