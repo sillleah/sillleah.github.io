@@ -21,6 +21,8 @@ When prompted to choose a folder, choose your 'sys' folder.
 A new copy of Night of 100 Frights should now appear in your Dolphin game list, notably 0 bytes in size. (Don't worry, it'll work fine.)
 You can launch this to test your modded game.
 
+
+
 One more thing - always remember to Save All Open HIPs in Industrial Park before you test!!!
 
 Congratulations - you've completed the basics of preparing to mod the game. Now you can more freely move on to tutorials that show you how to actually begin making changes with the knowledge given to you - but I recommend next, you move on to the Simple Level Editing tutorial, which will cover actually modifying objects in a level! 
