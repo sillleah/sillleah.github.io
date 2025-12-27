@@ -54,4 +54,4 @@ The 'sys' folder is a bit less interesting.
 
 In simple terms, most of your Night of 100 Frights modding will involve the game's .HIP files, and potentially the main.dol - but knowing where everything in the game is stored is useful information to have. You should refer back to this tutorial anytime you need to.  
 
-Now that you have an understanding of the file system, you should move on to the [Basics of Industrial Park](https://sillleah.github.io/modding/industrial-park-basics.html) tutorial. Industrial Park is the .HIP editor for Night of 100 Frights (and any other games made by Heavy Iron Studios) and will allow you to actually start making changes to the game! 
+Now that you have an understanding of the file system, you should move on to the [Basics of Industrial Park](https://sillleah.github.io/modding/industrial-park.html) tutorial. Industrial Park is the .HIP editor for Night of 100 Frights (and any other games made by Heavy Iron Studios) and will allow you to actually start making changes to the game! 
