@@ -45,4 +45,4 @@ If you check the folder you selected, you should see two subfolders inside - 'fi
 
 And you're done - at least for now! We've extracted the game files.
 
-Next I recommend moving on to the Filesystem tutorial, which will explain the game's file structure so you can understand which files we'll be editing.
+Next I recommend moving on to the [Filesystem](https://sillleah.github.io/modding/filesystem.html) tutorial, which will explain the game's file structure so you can understand which files we'll be editing.
