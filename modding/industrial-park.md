@@ -49,8 +49,9 @@ I recommend disabling the SFX, Trigger and Volume asset types anytime you load I
 Now that you have a clearer view of the level, you can take a look around using basic controls.  
 Scroll up to zoom in, and scroll down to zoom out.  
 Hold down the scroll wheel and move the mouse to pan the camera around.  
-Use WASD to move the camera itself through the level.  
+Use WASD to move the camera itself through the level.
 
+Alternatively, if you press Z on your keyboard, you will enter a mode in which you can turn the camera simply by moving the mouse, similar to most PC video games. Press Z again to exit this mode.
 
 Now you have a solid idea of how to open and view a level in Industrial Park. You can simply close the program once you are done for now.
 I'd now recommend moving on to the [Using the Editor](https://sillleah.github.io/modding/editor.html) tutorial, which essentially serves as a second part to this tutorial by demonstrating how to inspect the level and the objects within by more than just sight.
