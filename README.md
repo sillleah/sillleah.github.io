@@ -11,5 +11,4 @@ Please feel free to take a look around! I have a lot of things lying around, mai
 ## Night of 100 Frights
 
 - [Modding Tutorials & Resources](https://sillleah.github.io/modding.html)
-- [Installing Mods](https:sillleah.github.io/installing-n100f-mods.html)
 
