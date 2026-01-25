@@ -1,4 +1,4 @@
-[Back to Modding Tutorials](https://sillleah.github.io/modding.html)
+[Back to Modding Tutorials](https://sillleah.github.io/n100f-modding.html)
 
 This is the first tutorial that will guide you through actually editing levels in Industrial Park.
 Making level edits opens up a lot of potential to create unique modded experiences, or to just fill Mystery 1 with crabs if that's something you're interested in.
@@ -6,7 +6,7 @@ Making level edits opens up a lot of potential to create unique modded experienc
 ![Mystery 1 with crabs](/assets/n100f/crabs.png)
 
 Before we can get to the fun stuff, though, we need to cover the basics of making changes to objects in Industrial Park.
-If you need a refresher on viewing levels in Industrial Park and selecting objects in the editor, refer back to the [Basics of Industrial Park](https://sillleah.github.io/modding/industrial-park.html) and [Using the Editor](https://sillleah.github.io/modding/editor.html) tutorials.
+If you need a refresher on viewing levels in Industrial Park and selecting objects in the editor, refer back to the [Basics of Industrial Park](https://sillleah.github.io/n100f-modding/industrial-park.html) and [Using the Editor](https://sillleah.github.io/n100f-modding/editor.html) tutorials.
 
 ## Deleting an Object
 
