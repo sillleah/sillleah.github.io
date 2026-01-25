@@ -1,4 +1,4 @@
-[Back to Modding Tutorials](https://sillleah.github.io/modding.html)
+[Back to Modding Tutorials](https://sillleah.github.io/n100f-modding.html)
 
 This tutorial details how to edit the sd2.ini file to modify Night of 100 Frights' internal game settings, such as Scooby's speed or the starting level.
 
