@@ -1,4 +1,4 @@
-[Back to Modding Tutorials](https://sillleah.github.io/modding.html)
+[Back to Modding Tutorials](https://sillleah.github.io/n100f-modding.html)
 
 This simple tutorial will show you three ways of easily launching an extracted modded game.
 
@@ -16,7 +16,7 @@ Just as with Method 1, you'll be prompted to choose a program (if you haven't al
 ## Method 3: Inside Dolphin
 
 If for whatever reason, you want to add your extracted game to Dolphin's game list, you can do so rather easily.
-At the top of Dolphin, open Config > Paths and add a new path, just as explained in the [Extracting the Game](https://sillleah.github.io/modding/extracting-the-game.html) tutorial.
+At the top of Dolphin, open Config > Paths and add a new path, just as explained in the [Extracting the Game](https://sillleah.github.io/n100f-modding/extracting-the-game.html) tutorial.
 When prompted to choose a folder, choose your 'sys' folder.
 A new copy of Night of 100 Frights should now appear in your Dolphin game list, notably 0 bytes in size. (Don't worry, it'll work fine.)
 You can launch this to test your modded game.
