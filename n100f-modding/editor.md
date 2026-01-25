@@ -10,7 +10,7 @@ If you don't already have it open, open Industrial Park and open a level as show
 When you load a level in Industrial Park, you probably notice the extra windows that pop up - one for your level .HIP, and one for boot.HIP.
 I call these windows **Archive Editor Windows** - and they provide information on objects and data within a level that can't be determined purely by visuals.
 
-![Archive Editor window](/assets/archive-window.png)
+![Archive Editor window](/assets/n100f/archive-window.png)
 
 If you've closed an Archive Editor Window, you can easily reopen it from Industrial Park's top bar by going to Archive Editor > the name of the .HIP you wish to reopen the window for.  
 You can generally close any Archive Editor Window that you aren't currently using, if you'd like to keep tidy.
@@ -19,7 +19,7 @@ You can generally close any Archive Editor Window that you aren't currently usin
 
 When you click on an object in a level, it'll be highlighted in red, and will also be highlighted as an entry in the level's Archive Editor Window - as with this snack in the screenshot below.
 
-![A highlighted object](/assets/view-object.png)
+![A highlighted object](/assets/n100f/view-object.png)
 
 We won't be making any edits to objects in this tutorial (we'll save that for the [Basics of Level Editing](https://sillleah.github.io/n100f-modding/level-editing.html) tutorial), but let's take a closer look. Right-click on the object entry in the Archive Editor Window (SNACK 50 in the case of my screenshot) and click 'Edit Data'.  
 This will bring up the Data window for that object, containing all the different information and parameters of that object - position, rotation, visual flags, any object-specific data, etc.
@@ -32,11 +32,11 @@ The Archive Editor window can help you easily find this text.
 
 First, make sure the Archive Editor Window is set to the right layer, which is usually Layer 04: DEFAULT.
 
-![Selecting a layer](/assets/layer-default.png)
+![Selecting a layer](/assets/n100f/layer-default.png)
 
 Then, you can look for the appropriate asset type, which would be Text in this case. Now the Archive Editor Window only shows text objects.
 
-![Selecting an asset type](/assets/asset-type.png)
+![Selecting an asset type](/assets/n100f/asset-type.png)
 
 Or, you can even use the Find box next to the Type dropdown to search for an object by name, although names aren't always consistent with the object's function.
 A guide to the different layers and asset types in most .HIPs is available [here](https://sillleah.github.io/n100f-modding/layers-assets.html).
