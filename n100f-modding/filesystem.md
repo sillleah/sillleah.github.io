@@ -1,8 +1,8 @@
-[Back to Modding Tutorials](https://sillleah.github.io/modding.html)
+[Back to Modding Tutorials](https://sillleah.github.io/n100f-modding.html)
 
 In this tutorial, we'll cover the Night of 100 Frights filesystem and which files you'll be getting familiar with to mod the game.
 
-If you followed the [Extracting Game Files](https://sillleah.github.io/modding/extracting-the-game.html) tutorial, you should have a set of extracted game files, which we'll be delving into this tutorial.
+If you followed the [Extracting Game Files](https://sillleah.github.io/n100f-modding/extracting-the-game.html) tutorial, you should have a set of extracted game files, which we'll be delving into this tutorial.
 
 ## The 'files' folder
 
@@ -42,7 +42,7 @@ This file is present in any Gamecube game and provides the banner and game data 
 
 ### sd2.ini
 
-This is a configuration file that contains a few game settings you can alter, such as changing Scooby's speed values or bypassing the main menu. You can learn how to edit this file in the [INI File](https://sillleah.github.io/modding/ini-file.html) tutorial.
+This is a configuration file that contains a few game settings you can alter, such as changing Scooby's speed values or bypassing the main menu. You can learn how to edit this file in the [INI File](https://sillleah.github.io/n100f-modding/ini-file.html) tutorial.
 
 ## The 'sys' folder
 
@@ -54,4 +54,4 @@ The 'sys' folder is a bit less interesting.
 
 In simple terms, most of your Night of 100 Frights modding will involve the game's .HIP files, and potentially the main.dol - but knowing where everything in the game is stored is useful information to have. You should refer back to this tutorial anytime you need to.  
 
-Now that you have an understanding of the file system, you should move on to the [Basics of Industrial Park](https://sillleah.github.io/modding/industrial-park.html) tutorial. Industrial Park is the .HIP editor for Night of 100 Frights (and any other games made by Heavy Iron Studios) and will allow you to actually start making changes to the game! 
+Now that you have an understanding of the file system, you should move on to the [Basics of Industrial Park](https://sillleah.github.io/n100f-modding/industrial-park.html) tutorial. Industrial Park is the .HIP editor for Night of 100 Frights (and any other games made by Heavy Iron Studios) and will allow you to actually start making changes to the game! 
