@@ -9,7 +9,7 @@ If you followed the [Extracting Game Files](https://sillleah.github.io/n100f-mod
 First let's jump into the 'files' folder.
 This folder contains... well, almost all of the important game files for Night of 100 Frights.
 
-![The files folder](/assets/filesystem.png)
+![The files folder](/assets/n100f/filesystem.png)
 
 ### 'fmv' / Cutscenes
 
