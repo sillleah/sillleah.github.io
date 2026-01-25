@@ -1,4 +1,4 @@
-[Back to Modding Tutorials](https://sillleah.github.io/modding.html)
+[Back to Modding Tutorials](https://sillleah.github.io/n100f-modding.html)
 
 This tutorial will walk you through installing Industrial Park and its basic usage.
 
@@ -54,4 +54,4 @@ Use WASD to move the camera itself through the level.
 Alternatively, if you press Z on your keyboard, you will enter a mode in which you can turn the camera simply by moving the mouse, similar to most PC video games. Press Z again to exit this mode.
 
 Now you have a solid idea of how to open and view a level in Industrial Park. You can simply close the program once you are done for now.
-I'd now recommend moving on to the [Using the Editor](https://sillleah.github.io/modding/editor.html) tutorial, which essentially serves as a second part to this tutorial by demonstrating how to inspect the level and the objects within by more than just sight.
+I'd now recommend moving on to the [Using the Editor](https://sillleah.github.io/n100f-modding/editor.html) tutorial, which essentially serves as a second part to this tutorial by demonstrating how to inspect the level and the objects within by more than just sight.
