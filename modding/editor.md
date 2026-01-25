@@ -1,7 +1,7 @@
-[Back to Modding Tutorials](https://sillleah.github.io/modding.html)
+[Back to Modding Tutorials](https://sillleah.github.io/n100f-modding.html)
 
 This tutorial will show you the more advanced aspects of inspecting a level in Industrial Park and viewing objects.  
-It essentially serves as a second part to the [Basics of Industrial Park](https://sillleah.github.io/modding/industrial-park.html) tutorial, so I highly recommend you view that tutorial first.
+It essentially serves as a second part to the [Basics of Industrial Park](https://sillleah.github.io/n100f-modding/industrial-park.html) tutorial, so I highly recommend you view that tutorial first.
 
 If you don't already have it open, open Industrial Park and open a level as shown in the last tutorial. For the purposes of this guide, I'll be opening The Mystery Machine, but you can open any level you like.
 
@@ -21,7 +21,7 @@ When you click on an object in a level, it'll be highlighted in red, and will al
 
 ![A highlighted object](/assets/view-object.png)
 
-We won't be making any edits to objects in this tutorial (we'll save that for the [Basics of Level Editing](https://sillleah.github.io/modding/level-editing.html) tutorial), but let's take a closer look. Right-click on the object entry in the Archive Editor Window (SNACK 50 in the case of my screenshot) and click 'Edit Data'.  
+We won't be making any edits to objects in this tutorial (we'll save that for the [Basics of Level Editing](https://sillleah.github.io/n100f-modding/level-editing.html) tutorial), but let's take a closer look. Right-click on the object entry in the Archive Editor Window (SNACK 50 in the case of my screenshot) and click 'Edit Data'.  
 This will bring up the Data window for that object, containing all the different information and parameters of that object - position, rotation, visual flags, any object-specific data, etc.
 
 ## Finding Objects In The Archive Editor Window
@@ -39,7 +39,7 @@ Then, you can look for the appropriate asset type, which would be Text in this c
 ![Selecting an asset type](/assets/asset-type.png)
 
 Or, you can even use the Find box next to the Type dropdown to search for an object by name, although names aren't always consistent with the object's function.
-A guide to the different layers and asset types in most .HIPs is available [here](https://sillleah.github.io/modding/layers-assets.html).
+A guide to the different layers and asset types in most .HIPs is available [here](https://sillleah.github.io/n100f-modding/layers-assets.html).
 
 ## Saving
 
@@ -48,4 +48,4 @@ You can save in Industrial Park by using the top bar to navigate to Tools > Save
 
 
 
-Now you should have a good grasp of viewing and finding objects inside of Industrial Park. Next I recommend you visit the tutorial on [Testing the Game](https://sillleah.github.io/modding/testing.html), since this is the last important building block to learn before you're ready to start actually modifying the game!
+Now you should have a good grasp of viewing and finding objects inside of Industrial Park. Next I recommend you visit the tutorial on [Testing the Game](https://sillleah.github.io/n100f-modding/testing.html), since this is the last important building block to learn before you're ready to start actually modifying the game!
