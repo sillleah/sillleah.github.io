@@ -10,11 +10,11 @@ These guides are intended for the Gamecube version of the game. I am not experie
 
 ## Getting Started
 
-- [Extracting the Game](https://sillleah.github.io/modding/extracting-the-game.html) - The basics on extracting the game files to begin modding.
-- [The Filesystem](https://sillleah.github.io/modding/filesystem.html) - Information on the game's filesystem.
-- [Basics of Industrial Park](https://sillleah.github.io/modding/industrial-park.html) - The basics of installing Industrial Park and viewing a level.
-- [Using the Editor](https://sillleah.github.io/modding/editor.html) - More information on viewing and finding objects in Industrial Park.
-- [Testing the Game](https://sillleah.github.io/modding/testing.html) - How to launch and test a modded game.
+- [Extracting the Game](https://sillleah.github.io/n100f-modding/extracting-the-game.html) - The basics on extracting the game files to begin modding.
+- [The Filesystem](https://sillleah.github.io/n100f-modding/filesystem.html) - Information on the game's filesystem.
+- [Basics of Industrial Park](https://sillleah.github.io/n100f-modding/industrial-park.html) - The basics of installing Industrial Park and viewing a level.
+- [Using the Editor](https://sillleah.github.io/n100f-modding/editor.html) - More information on viewing and finding objects in Industrial Park.
+- [Testing the Game](https://sillleah.github.io/n100f-modding/testing.html) - How to launch and test a modded game.
 
 ## Level Editing Basics
 
@@ -32,9 +32,9 @@ These guides are intended for the Gamecube version of the game. I am not experie
 
 ## Other Modding
 
-- [The INI File](https://sillleah.github.io/modding/ini-file.html)
+- [The INI File](https://sillleah.github.io/n100f-modding/ini-file.html)
 
 ## Useful Resources
 
-- [Level Filenames Guide](https://sillleah.github.io/modding/level-names.html)
-- [Layers and Asset Types Guide](https://sillleah.github.io/modding/layers-assets.html)
+- [Level Filenames Guide](https://sillleah.github.io/n100f-modding/level-names.html)
+- [Layers and Asset Types Guide](https://sillleah.github.io/n100f-modding/layers-assets.html)
