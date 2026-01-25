@@ -6,7 +6,7 @@ Please feel free to take a look around! I have a lot of things lying around, mai
 
 - [YouTube](https://www.youtube.com/@sillleah)
 - [Twitch](https://www.twitch.tv/sillleah)
-- [Speedrun.com](www.speedrun.com/users/silleah)
+- [Speedrun.com](https://www.speedrun.com/users/silleah)
 
 ## Night of 100 Frights
 
