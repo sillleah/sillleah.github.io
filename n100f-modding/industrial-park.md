@@ -10,7 +10,7 @@ Extract the .zip file to a location of your choosing and run IndustrialPark.exe 
 If this is your first time using Industrial Park, you'll be presented with some popups pointing you to various tutorials. These are great to check out, but you can also simply skip over them and continue following this guide for now if you wish, since we'll cover all the basics.
 You'll find yourself sitting at a basic, empty blue screen.
 
-![Industrial Park on startup](/assets/industrial-park.png)
+![Industrial Park on startup](/assets/n100f/industrial-park.png)
 
 ## Using Industrial Park
 
@@ -20,13 +20,13 @@ Let's go through some of the basics of using Industrial Park.
 
 To open a level in Industrial Park, use the top bar and go to Archive Editor > Open Level. You'll be met with a slightly scary popup box. Click the 3 dots to the far right of "HIP file", as shown here.
 
-![The open level dialog](/assets/open-level.png)
+![The open level dialog](/assets/n100f/open-level.png)
 
 Select the HIP file of the level you want to open. For the purposes of this test, let's stay simple and open The Mystery Machine. Remember, you can find the filenames of levels using my handy guide [here](https://sillleah.github.io/modding/level-names.html). Mystery Machine's filename is H001, so navigate to your 'files' folder, then the H0 folder, then H001.HIP.  
 
 After selecting your level HIP, Industrial Park should also automatically find your boot.HIP and fill it into the dialog box, leaving you with something like the picture shown.
 
-![The open level dialog](/assets/open-level2.png)
+![The open level dialog](/assets/n100f/open-level2.png)
 
 Click 'Open Level' and Industrial Park will open up the selected level.  
 A popup will appear asking you to specify the platform of your HIP file. Leave this as 'GameCube' and hit Confirm.  
@@ -39,7 +39,7 @@ You'll have to repeat these steps again as Industrial Park loads the boot.HIP - 
 
 Now that your level has loaded into Industrial Park, let's go over the basics of taking a look around a level.
 
-![Viewing a level](/assets/view-level.png)
+![Viewing a level](/assets/n100f/view-level.png)
 
 First of all, you probably notice a large amount of colored boxes and spheres covering large parts of your level, and making it difficult to see much. These are mostly sound effect and camera triggers. Luckily, Industrial Park allows you to hide certain types of assets, so we can hide these to more easily get a look at the level.
 
