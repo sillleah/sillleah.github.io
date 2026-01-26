@@ -29,5 +29,27 @@ Alternatively, you can right-click on the selected object in the Archive Editor 
 Now let's cover how to move objects.
 When you select an object in Industrial Park, three arrows will appear around it - one red, one blue, and one green.
 You can click on these arrows and drag to move an object along that axis.
+Pretty simple.
 
-W.I.P
+## Editing Objects
+
+We previously learned in the [Using The Editor](https://sillleah.github.io/n100f-modding/editor.html) tutorial how to inspect an object in the Archive Editor window and view it's Data by clicking 'Edit Data'.
+For example, here I select a random snack.
+
+![Data window](/assets/n100f/snack-data.png)
+
+You can edit all sorts of different parameters in this window to manipulate the object.
+
+- For example, if you need to make precise changes to the position of an object or just prefer working with coordinates, you can simply edit the PositionX, PositionY and PositionZ values in this window to move the object.
+- You can also change the *rotation* of objects in this way by editing Yaw, Pitch and Roll.
+- You can rescale objects by editing ScaleX, ScaleY, and ScaleZ, to make bigger or smaller objects.
+- You'll also likely have extra parameters to manipulate depending on the object type you've chosen.
+
+We'll be covering parameters in this data window a lot in future tutorials to do all sorts of things.
+
+Congrats, you've learned the basics of manipulating objects inside of Industrial Park.
+Feel free to have a poke around with this new knowledge - maybe move or delete some objects and then Save All Open HIPs (under Tools) and test the game (you can refer back to [Testing The Game](https://sillleah.github.io/n100f-modding/testing.html) if you don't remember how to do that) to see your changes!
+
+In the next tutorial in this mini-series, we'll dive into adding new objects - move on to [Adding Objects](https://sillleah.github.io/n100f-modding/adding-objects.html) when you're ready!
+
+
