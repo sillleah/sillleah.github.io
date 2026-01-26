@@ -18,7 +18,7 @@ These guides are intended for the Gamecube version of the game. I am not experie
 
 ## Level Editing Basics
 
-- Simple Level Editing - TODO
+- [Simple Level Editing](https://sillleah.github.io/n100f-modding/level-editing.html) - The basics of manipulating objects in Industrial Park.
 - Adding Objects - TODO
 - Porting Objects into Levels - TODO
 - Configuring Objects - TODO
