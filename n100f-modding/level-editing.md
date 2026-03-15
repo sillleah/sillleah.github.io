@@ -31,6 +31,8 @@ When you select an object in Industrial Park, three arrows will appear around it
 You can click on these arrows and drag to move an object along that axis.
 Pretty simple.
 
+You can press V on your keyboard to cycle through a few different modes for moving objects, such as being able to rotate them.
+
 ## Editing Objects
 
 We previously learned in the [Using The Editor](https://sillleah.github.io/n100f-modding/editor.html) tutorial how to inspect an object in the Archive Editor window and view it's Data by clicking 'Edit Data'.
